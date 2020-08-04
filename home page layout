@@ -1,0 +1,36 @@
+  
+  header a.logo-light img {max-height: 26px;}
+  
+  .media-menu-item {color: #000 !important;}
+.product-edit-new-container .instruction-inside{    padding-bottom: 10%;}
+.woocommerce-page .featured-image {
+    padding-bottom: 45%;
+}
+.product-edit-container .instruction-inside{    padding-top: 6px;}
+
+@media only screen and (min-width : 320px) and (max-width : 767px) 
+{
+	.product-edit-new-container .dokan-form-top-area .featured-image {
+    width: 100%;
+}
+
+.product-edit-container .dokan-feat-image-upload{width: 140px !important;
+    float: left;
+    margin: 0 0 0 0px;}
+.dokan-product-gallery{width: 125px !important;
+    float: left;
+    padding: 0 0 0 30px;}
+	.woocommerce-page .featured-image {
+		padding-bottom: 100% !important;}
+}
+.woocommerce-page .featured-image {
+    padding-bottom: 55%;
+    float: right;
+}
+
+@media all and (min-width: 87.5em) {
+  .header-promo .slides {
+    margin-top: 0em;
+    border: solid 0px rgba(0, 0, 0, 0);
+  }
+  
