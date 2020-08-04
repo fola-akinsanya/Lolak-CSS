@@ -1,0 +1,29 @@
+.content-half-part.downloadable-checkbox {
+     display: none !important; 
+ } 
+
+  .content-half-part.virtual-checkbox {    
+  display: none !important; 
+
+ }
+
+select#product_type option:nth-child(3) {
+    display: none !important;
+}
+select#product_type option:nth-child(2) {
+    display: none !important;
+}
+select#product_type option:nth-child(1) {
+    display: none !important;
+}
+.woocommerce-loop-category__title mark {
+    display: none !important;
+}
+
+.content-half-part.sale-price, .dokan-product-inventory.dokan-edit-row, .dokan-product-shipping-tax.hide_if_grouped.dokan-edit-row.dokan-clearfix.dokan-border-top.woocommerce-no-tax {
+    display: none !important;
+}
+.dokan-product-edit-form .content-half-part .dokan-form-group:nth-child(2), #tab-title-shipping, .dokan-linked-product-options.dokan-edit-row.dokan-clearfix {
+   display: none !important;
+}
+  
